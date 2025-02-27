@@ -48,3 +48,7 @@ Understanding pizza sales trends is crucial for optimizing inventory, pricing, a
 3. **Inventory Management:** Align stock levels based on sales trends.
 4. **Marketing Strategies:** Increase advertising for peak hours and best-performing pizzas.
 5. **Customer Engagement:** Collect feedback to improve underperforming pizzas and customer satisfaction.
+
+📝 Author: Laka Rahul Yadav
+📅 UNID Code: UMIP276540
+📊 Date : Feb - 27/2025
